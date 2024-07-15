@@ -1,0 +1,103 @@
+@charset "utf-8";
+/***** aca van los estilos css de estructura ****/
+
+body{
+	background: #B5B5B5;
+	font-family: montserrat;
+	font-size: 14px;
+}
+#principal{
+	width: 1280px;
+	margin: 0px auto;
+	background: #FFFFFF;
+}
+#header{
+	width: 1240px;
+	height: 100px;
+	padding: 20px;
+	background:#000000;
+	float: left;
+	color: white;
+}
+#menu{
+	width: 1280px;
+	float:left;
+	background:#909090;
+}
+#contenido{
+	width: 1280px;
+	background: #F1F1F1;
+	float: left;
+}
+#footer{
+	width: 1240px;
+	height: 100px;
+	padding: 20px;
+	background:#000000;
+	float: left;
+	color: white;
+}
+#slider{
+	width: 1240px;
+	height: 400px;
+	margin: 20px;
+	background: #FBC3C4;
+	float: left;
+}
+.caja{
+	width: 300px;
+	height: 200px;
+	padding: 20px;
+	margin: 20px;
+	background: #B9C3FB;
+	float: left;
+}
+.disco{
+	width: 345px;
+	height: 345px;
+	padding: 20px;
+	margin: 20px;
+	background:#B70003;
+	float: left;
+}
+.texto_disco{
+	width: 345px;
+	height: 345px;
+	padding: 20px;
+	margin: 20px;
+	background:#B70003;
+	float: left;
+}
+h1{
+	padding: 20px;
+	margin: 20px;
+	display: block;
+}
+
+/***** estilos de menu****/
+
+#menu a{
+	padding: 10px 30px;
+	margin: 10px;
+	float: left;
+	background: #000000;
+	color: white;
+	text-decoration: none;
+}
+#menu a:hover{
+	background: #FFFFFF;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
